@@ -1,0 +1,2 @@
+# rbxhack
+script lua
